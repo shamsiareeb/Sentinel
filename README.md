@@ -24,4 +24,6 @@ of non analysable comments.
 This python script was solely written by Mohd. Areeb Shamsi and Muhammad Iqbal Ahmad upon request.
 You are free to modify this script as per your requirements.
 
+Suggestions are always welcomed to improve the program.
+
 Peace Out.
