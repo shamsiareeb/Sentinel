@@ -21,7 +21,7 @@ At the end of the comments, there is Summary for that particular post which cont
 number of positive comments, number of negative comments, number of neutral comments and number
 of non analysable comments.
 
-This python script was solely written by Mohd. Areeb Shamsi and Muhammad Iqbal Ahmad upon request.
+This python script was solely written by Mohd. Areeb Shamsi and Muhammad Iqbal Ahmad (@MuhammadIqbalAhmad) upon request.
 You are free to modify this script as per your requirements.
 
 Suggestions are always welcomed to improve the program.
